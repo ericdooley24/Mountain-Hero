@@ -1,6 +1,6 @@
 # Mountain-Hero
 
-Mountain Hero, at it's core, is a memory based spatial puzzle. You play as a mountain   climber who is navigating their way to a peak. Along the way, you need several different types of tools. Specific tools must be used at specific spots on the mountain for you to successfully reach the peak.
+Mountain Hero, at it's core, is a memory based spatial puzzle. You play as a mountain   climber who is navigating their way to a peak during a whiteout blizzard. Along the way, you need several different types of tools. Specific tools must be used at specific spots on the mountain for you to successfully reach the peak.
   
 Upon starting a level, the player is able to see which of their tools (peg, ice screw, anchor, or rock tensioner) needs to be used and in which spaces. However, the moment a player takes their first step, they are blinded by the blizzard. All of the visual information regarding where tools should be used and where is gone. A player must rely on their memory to succesfully use their tools in the correct spots and thus take the correct path to the peak. 
   
