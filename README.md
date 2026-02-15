@@ -27,6 +27,7 @@ The interaction between the core mechanic of "blinding" the player and the ancil
 Refer to the following step by step instructions for each level. 
 
 Level 1 (Stable Rock):
+
 Objective: Place 4 normal pegs.
 1. Up 1, left 1, press X once.
 2. Right 2, press X once.
@@ -34,6 +35,7 @@ Objective: Place 4 normal pegs.
 4. Right 2, press x once.
 
 Level 2 (Ice): 
+
 Objective: Place 2 normal pegs and 2 ice screws.
 1. Up 1, left 1, press X Once.
 2. Right 2, press X twice.
@@ -43,6 +45,7 @@ Objective: Place 2 normal pegs and 2 ice screws.
 6. Right 2, press X twice.
 
 Level 3 (Winds):
+
 Objective: Place 2 pegs, 1 ice screw, and 2 anchors.
 1. Up 1, left 1, press X three times.
 2. Right 2, press X twice.
@@ -52,6 +55,7 @@ Objective: Place 2 pegs, 1 ice screw, and 2 anchors.
 6. Right 2, press X three times.
 
 Level 4 (Peak & Cracked Rock):
+
 Objective: Place 2 pegs, 2 ice screws, 2 anchors, and two rock tensioners.
 1. Up 1, left 1, press X three times.
 2. Right 2, press X twice.
