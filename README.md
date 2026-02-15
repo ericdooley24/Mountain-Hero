@@ -6,6 +6,8 @@ Upon starting a level, the player is able to see which of their tools (peg, ice 
   
 Though this project was always meant to have a mountain climbing theme, it was initially supposed to be a rhythm based game similar to guitar hero in a way. However, upon learning more about puzzlescript (which this was developed in), I quickly realized that the mechanics of such a game would be next to impossible (at least at my skill level) in the engine. I changed it to a memory based spatial puzzle game because of this, and the core themes of my initial pitch (matching specific gear to specific terrain) was preserved.
 
+
+
 **Mechanics & Controls**
 
 Movement: Arrow keys or WASD
@@ -22,6 +24,8 @@ Ancillary Mechanics and choice idiom in this game are achieved through the cycli
   
 The interaction between the core mechanic of "blinding" the player and the ancillary mechanics (cycling tools) creates the core puzzle of this game. Where do you go, and what tool do you place when you get there?
 
+
+
 **Level Walkthroughs**
 
 Refer to the following step by step instructions for each level. 
@@ -34,6 +38,7 @@ Objective: Place 4 normal pegs.
 3. Up 3, left 2, press X once.
 4. Right 2, press x once.
 
+
 Level 2 (Ice): 
 
 Objective: Place 2 normal pegs and 2 ice screws.
@@ -44,6 +49,7 @@ Objective: Place 2 normal pegs and 2 ice screws.
 5. Up 2, left 2, press X once.
 6. Right 2, press X twice.
 
+
 Level 3 (Winds):
 
 Objective: Place 2 pegs, 1 ice screw, and 2 anchors.
@@ -53,6 +59,7 @@ Objective: Place 2 pegs, 1 ice screw, and 2 anchors.
 4. Right 2, press X once.
 5. Up 2, left 2, press X once.
 6. Right 2, press X three times.
+
 
 Level 4 (Peak & Cracked Rock):
 
